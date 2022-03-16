@@ -29,3 +29,4 @@ function brickCalculator(noFloor) {
 }
 var result = brickCalculator(16);
 console.log(result);
+console.log("BIPLOB");
