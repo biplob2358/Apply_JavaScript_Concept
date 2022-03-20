@@ -25,3 +25,4 @@ function tinyFriend(nameArray) {
 }
 console.log(tinyFriend(frndName));
 console.log(tinyFriend([]));
+console.log("BIPLOB");
